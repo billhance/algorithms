@@ -4,11 +4,11 @@ namespace billhance\algorithms\sort;
 
 class BubbleSort
 {
-	/**
-	 * 
-	 */
-	public function sort() 
-	{
+    /**
+     * 
+     */
+    public function sort() 
+    {
 
-	}
+    }
 }
