@@ -1,13 +1,13 @@
-<?php 
+<?php
 
 namespace billhance\algorithms\sort;
 
 class QuickSort
 {
     /**
-     * 
+     *
      */
-    public function sort() 
+    public function sort()
     {
 
     }

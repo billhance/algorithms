@@ -1,4 +1,4 @@
-algorithms
+Algorithms
 ==========
 
-Implementations of various generic algorithms
+Implementations of various generic algorithms.
